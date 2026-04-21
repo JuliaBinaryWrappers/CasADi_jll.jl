@@ -4,8 +4,8 @@ export amplexe, libcasadi, libcasadi_nlpsol_ipopt
 using CompilerSupportLibraries_jll
 using Ipopt_jll
 JLLWrappers.@generate_wrapper_header("CasADi")
-JLLWrappers.@declare_library_product(libcasadi, "libcasadi.so.3.6")
-JLLWrappers.@declare_library_product(libcasadi_nlpsol_ipopt, "libcasadi_nlpsol_ipopt.so.3.6")
+JLLWrappers.@declare_library_product(libcasadi, "libcasadi.so.3.7")
+JLLWrappers.@declare_library_product(libcasadi_nlpsol_ipopt, "libcasadi_nlpsol_ipopt.so.3.7")
 JLLWrappers.@declare_executable_product(amplexe)
 function __init__()
     JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, Ipopt_jll)
