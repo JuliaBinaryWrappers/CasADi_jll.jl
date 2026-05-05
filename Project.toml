@@ -1,6 +1,6 @@
 name = "CasADi_jll"
 uuid = "4e54d0b0-c9f2-5505-b569-bd333cacc8c1"
-version = "3.7.2+0"
+version = "3.7.2+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
