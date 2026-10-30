@@ -1,148 +1,148 @@
 [[CasADi]]
 arch = "aarch64"
-git-tree-sha1 = "e66f82636e7e5c1fa28061780ae572f18d9f7ed3"
+git-tree-sha1 = "2250265cc163e55076adf0ccd5d90ddc80bb1156"
 os = "macos"
 
     [[CasADi.download]]
-    sha256 = "7aecdf6729fa467167dc08c581065951d067e11ef79513919956879f5bcf1f21"
-    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.1+0/CasADi.v3.8.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "6c30b798fd302bc5dafda7703a579bf6e2217e97148cd780def7cd73d82106e4"
+    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.2+0/CasADi.v3.8.2.aarch64-apple-darwin.tar.gz"
 [[CasADi]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1ab63f58f38f9bc6c686fc4f059d6b4b4a119aaa"
+git-tree-sha1 = "f751a90817184f681048c70f6d30af95b86d1fc1"
 libc = "glibc"
 os = "linux"
 
     [[CasADi.download]]
-    sha256 = "92eb141c3b680dfe2aca9a96a1c53c8239e9cf382f6a739e02d20e87bb9d2399"
-    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.1+0/CasADi.v3.8.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "84992313c0d0d60afeda95324428cba0fc153655a70ba9683caad89ac8c6a1a6"
+    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.2+0/CasADi.v3.8.2.aarch64-linux-gnu-cxx11.tar.gz"
 [[CasADi]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ab07ec1da7c10f4196268489d26873bf486d8a1e"
+git-tree-sha1 = "b25cc6a6fc46e5c1c6e42d8d5f056c1ab1d741ac"
 libc = "musl"
 os = "linux"
 
     [[CasADi.download]]
-    sha256 = "991ef80b74207a05238c5cbee0d264c1ccd3e9fae7cb27f50a2846679dd8f41e"
-    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.1+0/CasADi.v3.8.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "0823c49e205940cb37ecc07f0a6a5f3a1fc8458daf414d813b9080297eee1d0c"
+    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.2+0/CasADi.v3.8.2.aarch64-linux-musl-cxx11.tar.gz"
 [[CasADi]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7f6fbc33280227694750b1e96c1fb17fec95ab87"
+git-tree-sha1 = "1db9673e5e009dc7632cc91f7328ef54a60c5692"
 libc = "glibc"
 os = "linux"
 
     [[CasADi.download]]
-    sha256 = "7d67955c5a745c02e0121918da595ba0abffc4ed16ec46a35baff50e2431a297"
-    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.1+0/CasADi.v3.8.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "78880faa4545a044405355ff88edb50a82c8fd47f9915ebe1f3339a9e1f8255a"
+    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.2+0/CasADi.v3.8.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[CasADi]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5c3d0c48bd729f1c6835806d65a227efcbffcb88"
+git-tree-sha1 = "6de61016c0fe4f5176a0ca31365372781f4cee45"
 libc = "musl"
 os = "linux"
 
     [[CasADi.download]]
-    sha256 = "069f62fa796fd00ed29315141197ff41332f5079cc59ef98ac711f8b879defc9"
-    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.1+0/CasADi.v3.8.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "282c304ee3af3d6a35aa613130050b48e906531b35bdff35d9342d0b7e695877"
+    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.2+0/CasADi.v3.8.2.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[CasADi]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d38d5315385b97b8fb005b5fb535346929de8599"
+git-tree-sha1 = "223ed5c099549577029974735bb02c2e9920dadc"
 libc = "glibc"
 os = "linux"
 
     [[CasADi.download]]
-    sha256 = "de8bab2d2ff2d2ea7d7962d57dffce6ac9a87c8476938930fb1b0320559d8934"
-    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.1+0/CasADi.v3.8.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "fe0aa12731d35f88cb8bb176f5c777dc69a837ead96abddf0aa8e468b30d5ea0"
+    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.2+0/CasADi.v3.8.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[CasADi]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2c0b470fc45188894f3007f01b4bb4e09df57cec"
+git-tree-sha1 = "5a1e48941b922815be6f3bc810627cb95a836c03"
 libc = "musl"
 os = "linux"
 
     [[CasADi.download]]
-    sha256 = "d09d2fcde6e3f2dc46d9c84862e995f88bdbc176915e9b470d1c78d5a21211e0"
-    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.1+0/CasADi.v3.8.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "0bd9d4b3c3167e3254df45f3215eb4c31d598362cce35f96af45449f31f0e506"
+    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.2+0/CasADi.v3.8.2.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[CasADi]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "454c15fb09f6b2d04944ecf2e0fd82f8acf98939"
+git-tree-sha1 = "f035318aae8d06ae1e6bb7a755eaaf770d2c3344"
 libc = "glibc"
 os = "linux"
 
     [[CasADi.download]]
-    sha256 = "9dfa13b6a4acf068157377ba9dc1c2766b5de1564e875901b07db8ead9eb9691"
-    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.1+0/CasADi.v3.8.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "164582c37b9635520e9208b256e8ba1f59587ecc7c9205bbf9f34e6e80428cd9"
+    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.2+0/CasADi.v3.8.2.i686-linux-gnu-cxx11.tar.gz"
 [[CasADi]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6ea1610db3c89858f16116af97f5114cc6957511"
+git-tree-sha1 = "36b297a8150d19e4f53a62c0b68016a7566a3c05"
 libc = "musl"
 os = "linux"
 
     [[CasADi.download]]
-    sha256 = "521bc91081fdfbcc7d2d76e8937865db9297ee37c4d85c68ba36f1a47654b3ba"
-    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.1+0/CasADi.v3.8.1.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "b3e34c085a6102cbd51153adff703e5ceb1bb7c04e0c8aa03061294ddf578530"
+    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.2+0/CasADi.v3.8.2.i686-linux-musl-cxx11.tar.gz"
 [[CasADi]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c0c839c8cf185cc2b871f923f61fc3728f88502e"
+git-tree-sha1 = "1d3e9aa811155358f85585b0a1f56ba753dfae8a"
 os = "windows"
 
     [[CasADi.download]]
-    sha256 = "b9aead3df67cf1f5ad46c281de4ca91b1ef9f0d2e16af8a51ec11d658a53c3f7"
-    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.1+0/CasADi.v3.8.1.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "ceb733e50625e6dc909a4912f12eaae146766ba297914d354af1eb0f067235f4"
+    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.2+0/CasADi.v3.8.2.i686-w64-mingw32-cxx11.tar.gz"
 [[CasADi]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8f2b089acb11d8682e55bcfab51903703efdc15c"
+git-tree-sha1 = "00208dccc7400d9798dfffbee61870823bf929da"
 libc = "glibc"
 os = "linux"
 
     [[CasADi.download]]
-    sha256 = "740527e49d0d1f696aae977a4da10b5b2ad145e5a184e2b4c820a5396081918a"
-    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.1+0/CasADi.v3.8.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "1c15dad282dc20edcf42aee7edc0569a9067bfe8234d833e6e29694ef7e77fd5"
+    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.2+0/CasADi.v3.8.2.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[CasADi]]
 arch = "x86_64"
-git-tree-sha1 = "3a179b50e09161d8eec99a8bc9dab592f10a553c"
+git-tree-sha1 = "2ec50e79c0e57c8e813293b5cd643609a0c1e268"
 os = "macos"
 
     [[CasADi.download]]
-    sha256 = "c03464720d3104e28c64253ca90993f4381a2cc8f00b940a4cb173440e0fdf72"
-    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.1+0/CasADi.v3.8.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "cbb1163a33a2e438f8ec9658b76e53391f9d240577a0f9313980894b3b82a952"
+    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.2+0/CasADi.v3.8.2.x86_64-apple-darwin.tar.gz"
 [[CasADi]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aa33047ac0dc68dc3218f0de5c58a837b54f52c9"
+git-tree-sha1 = "c7274c373c5ba3fff4c6b707266b78120b7ffdfc"
 libc = "glibc"
 os = "linux"
 
     [[CasADi.download]]
-    sha256 = "21065e7eb058cedc6d284bebd42c4f6819980b565a734188ad959bd644aaf660"
-    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.1+0/CasADi.v3.8.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "4e2100f6fae85dd90d5a275cea66d1241c4c184624104d6bae0135589ea2bbda"
+    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.2+0/CasADi.v3.8.2.x86_64-linux-gnu-cxx11.tar.gz"
 [[CasADi]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1855bf30d04270ea7c61620014bfe30c081ec6ab"
+git-tree-sha1 = "0265bcd05a99b02720c9a6e481f4ba87f8e15973"
 libc = "musl"
 os = "linux"
 
     [[CasADi.download]]
-    sha256 = "2812e449a63087a0bdb19a613e61dfb7311deb8585c48f8a7f383d0461bcc19f"
-    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.1+0/CasADi.v3.8.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "15331e82e46a019693b76bf2ce3ba360d9eb6a661ab0c7a96f66fdbb35571600"
+    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.2+0/CasADi.v3.8.2.x86_64-linux-musl-cxx11.tar.gz"
 [[CasADi]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "79f396fd87474faf7950c9dde2330807e031919e"
+git-tree-sha1 = "b309fd22c42eabb3a8f61dfe67a84399bb574d1a"
 os = "windows"
 
     [[CasADi.download]]
-    sha256 = "5f76fb10ef954506a43b0e341916bebfd937ebc71b08080785f49e3354638213"
-    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.1+0/CasADi.v3.8.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "6558766463ed7818129153f58f1b06819eb3cbc2d4b8d505d4eac20e54b0585a"
+    url = "https://github.com/JuliaBinaryWrappers/CasADi_jll.jl/releases/download/CasADi-v3.8.2+0/CasADi.v3.8.2.x86_64-w64-mingw32-cxx11.tar.gz"
